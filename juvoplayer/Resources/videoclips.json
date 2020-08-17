@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "title": "Clean byte range MPEG DASH",
     "url": "http://yt-dash-mse-test.commondatastorage.googleapis.com/media/car-20120827-manifest.mpd",
@@ -148,7 +148,7 @@
   },
   {
     "title": "RTSP multicast streaming",
-    "url": "rtsp://10.88.91.96/canimals.ts",
+    "url": "rtsp://106.120.45.49:554/test.ts",
     "type": "rtsp",
     "poster": "canimals.jpg",
     "description": "Fixed URI rtsp://xxx.xxx.xxx.xxx/canimals.ts!!! IPTV multicast protocol H264 + AAC. RTSP streaming, 1920x1080 MPEG1/2 video (mpgv) + AC3 codecs."
